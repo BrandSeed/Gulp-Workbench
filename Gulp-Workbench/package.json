@@ -22,7 +22,7 @@
     "gulp-concat": "*",
     "gulp-pug": "*",
     "gulp-sass": "*",
-    "gulp-uglify": "*",
+    "gulp-uglify": "^3.0.1",
     "node-sass": "*",
     "pug": "*"
   },
